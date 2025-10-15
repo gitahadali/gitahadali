@@ -68,9 +68,9 @@ Feel free to check out my projects and connect if you’d like to collaborate!
 
 ## Github Stats
 
-[![Shahzaib Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib4500)](https://github.com/shahzaib4500/github-readme-stats)
+[![Syed Ahad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitahadali)](https://github.com/gitahadali/github-readme-stats)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib4500&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitahadali&hide_progress=true)
 
